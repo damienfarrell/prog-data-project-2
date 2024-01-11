@@ -1,4 +1,4 @@
-year,temp (°C),CH4 (ppbv),CO2 (ppmv),irish rainfall (mm),irish temp (°C)
+year,temp anomaly (°C),CH4 (ppbv),CO2 (ppmv),irish rainfall (mm),irish temp (°C)
 -803718,,,207.28544010704545,,
 -803182,,,202.2268391289192,,
 -802572,,,204.86193803431442,,
